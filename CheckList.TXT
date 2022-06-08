@@ -1,0 +1,14 @@
+
+ #
+ 
+ 1 Build           1.0
+ 2 Enviroment      Windows 10
+ 3 Test Date       05.06. - 
+                   08.06.2022
+ 4 Tester          Vasya
+ 
+ Test Type         Checking        Result
+
+ Smoke             ----            ----
+ CP                ----            ----
+ EXT               ----            ---- 
